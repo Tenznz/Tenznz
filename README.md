@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tenznz)
 
-![counter](https://[(https://enwu88fupsyn52d.m.pipedream.net)].m.pipedream.net)
+![counter](https://[https://pipedream.com/@tenznz/copy-of-github-profile-view-counter-p_YyCrqxq].m.pipedream.net)
