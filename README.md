@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Tenznz/Tenznz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... dhugkar95@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tenznz&repo=fundooNotes) -->
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tenznz&repo=fundooNotes) --> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tenznz)
 
