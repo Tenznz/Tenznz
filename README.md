@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 <!-- [![Github All Releases](https://img.shields.io/github/downloads/Tenznz/Tenznz/total.svg)]() -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tenznz)
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
