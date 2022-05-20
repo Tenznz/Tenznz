@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tenznz)
 
-![counter](https://[steps.trigger.event.url].m.pipedream.net)
+[![Github All Releases](https://img.shields.io/github/downloads/Tenznz/Tenznz/total.svg)]()
