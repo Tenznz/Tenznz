@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tenznz)
 
 <!-- [![Github All Releases](https://img.shields.io/github/downloads/Tenznz/Tenznz/total.svg)]() -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tenznz)
