@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 **Tenzing Dhugkar**
-- 🌱 I’m currently learning ... DJANGO
+<!-- - 🌱 I’m currently learning ... DJANGO --> 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tenznz&repo=fundooNotes) --> 
 
 
